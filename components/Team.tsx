@@ -4,7 +4,7 @@ import { ASSETS } from '../constants';
 
 const Team: React.FC = () => {
   const members = [
-    { name: "Luhur Santoso", role: "Lead Strategist", img: ASSETS.TEAM.LUHUR },
+    { name: "Fla Aquilla", role: "Lead Strategist", img: ASSETS.TEAM.LUHUR },
     { name: "Michael Wilson", role: "Full Stack Developer", img: ASSETS.TEAM.MICHAEL },
   ];
 
